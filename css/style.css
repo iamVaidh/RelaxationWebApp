@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #224941 url("img/bg.jpg") no-repeat center center/cover;
+  background: #FF6CAB url('../img/bg.jpg') no-repeat center center/cover;
   color: #fff;
   font-family: "Noto Sans KR", sans-serif;
   min-height: 100vh;
@@ -28,7 +28,7 @@ body {
 }
 
 .circle {
-  background-image: url('img/circle.jpg');
+  background-image: url('../img/circle.jpg');
   height: 100%;
   width: 100%;
   border-radius: 50%;
